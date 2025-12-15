@@ -1,10 +1,10 @@
-# AI Summarizer Button
+# AI Summary Button
 
 A WordPress block plugin that adds customizable button groups to your site. Built following WordPress Gutenberg standards for seamless integration.
 
 ## Description
 
-AI Summarizer Button is a powerful WordPress block that allows you to create flexible, customizable button groups for your content. Whether you need horizontal navigation buttons, vertical call-to-action stacks, or sophisticated button layouts with custom styling, this block has you covered.
+AI Summary Button is a powerful WordPress block that allows you to create flexible, customizable button groups for your content. Whether you need horizontal navigation buttons, vertical call-to-action stacks, or sophisticated button layouts with custom styling, this block has you covered.
 
 ## Features
 
@@ -24,24 +24,24 @@ AI Summarizer Button is a powerful WordPress block that allows you to create fle
 ### From WordPress.org
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "AI Summarizer Button"
+2. Search for "AI Summary Button"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summarizer-button/releases)
-2. Upload the `ai-summarizer-button` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summary-button/releases)
+2. Upload the `ai-summary-button` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/ai-summarizer-button.git
+git clone https://github.com/theaminuli/ai-summary-button.git
 
 # Navigate to the plugin directory
-cd ai-summarizer-button
+cd ai-summary-button
 
 # Install dependencies
 npm install
@@ -53,7 +53,7 @@ npm run build
 ## Usage
 
 1. Create or edit a post/page in the WordPress block editor
-2. Add a new block and search for "AI Summarize Button"
+2. Add a new block and search for "Summarize Button"
 3. Add individual buttons by clicking the "+" inside the block
 4. Customize button text, links, and styles using the block toolbar and sidebar
 5. Adjust layout (horizontal/vertical) and spacing in the block settings
@@ -91,7 +91,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-ai-summarizer-button/
+ai-summary-button/
 ├── src/
 │   ├── admin/                  # Admin settings
 │   ├── blocks/                 # Block source files
@@ -101,8 +101,8 @@ ai-summarizer-button/
 │   │       └── styles/         # Block-specific styles
 │   └── styles/                 # Global styles
 ├── build/                      # Compiled assets
-│   └── ai-summarizer-button/
-├── ai-summarizer-button.php    # Main plugin file
+│   └── summarize-button/
+├── ai-summary-button.php    # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 └── package.json               # Node dependencies
 ```
@@ -123,8 +123,8 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## Support
 
-- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-summarizer-button/)
-- [GitHub Issues](https://github.com/theaminuli/ai-summarizer-button/issues)
+- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-summary-button/)
+- [GitHub Issues](https://github.com/theaminuli/ai-summary-button/issues)
 
 ## Credits
 
