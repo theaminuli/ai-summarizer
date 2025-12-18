@@ -1,0 +1,18 @@
+# Files to be ignored in the plugin release
+
+node_modules/
+.gitignore
+.gitattributes
+package.json
+src/
+.git
+.github
+.wordpress-org
+.distignore
+.editorconfig
+README.md
+SECURITY.md
+package-lock.json
+webpack.config.js
+*.map
+.DS_Store
