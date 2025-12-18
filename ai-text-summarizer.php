@@ -11,7 +11,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       ai-text-summarizer
  *
- * @package AISummaryButton
+ * @package AITextSummarizer
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
