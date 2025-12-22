@@ -250,9 +250,9 @@ Set it once, buttons appear everywhere automatically!
 
 TL;DR stands for "Too Long; Didn't Read." It's an internet acronym (added to Oxford English Dictionary in 2013) used to provide quick summaries of lengthy content. Adding TL;DR buttons with this summarizing tool helps readers decide if your content is relevant to them, reducing bounce rates and improving user experience.
 
-= Is this really a free text summarizer? =
+= How does AI Summarizer work? =
 
-Yes! AI Summarizer is 100% free and open source. You can use Chrome's built-in Gemini Nano for completely free on-device summarization, or optionally integrate with AI APIs (ChatGPT, Claude, Gemini, etc.) if you want additional features. Unlike Grammarly, QuillBot, or TLDR This which require paid subscriptions, this plugin is entirely free.
+AI Summarizer integrates with 6 AI models for automatic summarization. You can use Chrome's built-in Gemini Nano for on-device summarization, or optionally integrate with AI APIs (ChatGPT, Claude, Gemini, Grok, Perplexity, Google AI) if you want additional features. We're continuously expanding AI integration capabilities.
 
 = How do I add summary buttons to my content? =
 
@@ -264,7 +264,7 @@ Yes! The plugin integrates with 6 AI models for automatic summarization. You can
 
 = What's the difference between this and Grammarly or QuillBot summarizers? =
 
-Unlike Grammarly or QuillBot which are external tools requiring subscriptions, AI Summarizer is a native WordPress plugin that's 100% free. It offers 6 AI models (vs their 1), WordPress integration, Gutenberg blocks, floating action buttons, auto-insertion, and on-device AI summarization with Gemini Nano - features competitors don't have.
+Unlike Grammarly or QuillBot which are external tools requiring subscriptions, AI Summarizer is a native WordPress plugin. It offers 6 AI models (vs their 1), WordPress integration, Gutenberg blocks, floating action buttons, auto-insertion, and on-device AI summarization with Gemini Nano - features competitors don't have.
 
 = Can I use this summarizing tool without API keys? =
 
@@ -309,7 +309,7 @@ Yes, all button text is fully customizable and supports WordPress translation fu
 
 = How is this different from TLDR This or DeCopy.ai? =
 
-TLDR This and DeCopy.ai are external web-based summarizers with usage limits and costs. AI Summarizer is a native WordPress plugin that's 100% free, integrates directly into your site with Gutenberg blocks, offers 6 AI models, automatic insertion, and works offline with Gemini Nano.
+TLDR This and DeCopy.ai are external web-based summarizers with usage limits and costs. AI Summarizer is a native WordPress plugin that integrates directly into your site with Gutenberg blocks, offers 6 AI models, automatic insertion, and works offline with Gemini Nano.
 
 == Screenshots ==
 

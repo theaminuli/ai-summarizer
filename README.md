@@ -194,7 +194,7 @@ Compare this WordPress summarizing tool with other popular text summarizers:
 | Feature | **AI Summarizer** | Grammarly | QuillBot | TLDR This | DeCopy.ai |
 |---------|-------------------|-----------|----------|-----------|-----------|
 | **AI Models** | ✅ 6 (ChatGPT, Claude, Gemini, Grok, Perplexity, Google AI) | ❌ 1 | ❌ 1 | ❌ 1 | ❌ 1-2 |
-| **Free Tier** | ✅ **100% FREE** | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited |
+| **Pricing** | ✅ **Open Source** | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited |
 | **WordPress Integration** | ✅ Native plugin | ❌ External tool | ❌ External tool | ❌ External tool | ❌ External tool |
 | **Gutenberg Blocks** | ✅ Native integration | ❌ None | ❌ None | ❌ None | ❌ None |
 | **Floating Action Button** | ✅ 6 positions | ❌ None | ❌ None | ❌ None | ❌ None |
@@ -207,7 +207,7 @@ Compare this WordPress summarizing tool with other popular text summarizers:
 | **Summary Lengths** | ✅ Short, medium, detailed | ⚠️ Fixed | ✅ Customizable | ⚠️ Limited | ⚠️ Limited |
 | **Multi-language** | ✅ 50+ languages | ✅ Yes | ✅ Yes | ⚠️ Limited | ⚠️ Limited |
 | **Accessibility** | ✅ WCAG 2.1 AA | ⚠️ Basic | ⚠️ Basic | ⚠️ Basic | ⚠️ Basic |
-| **API Costs** | ✅ Optional (or use Gemini Nano) | 💰 Subscription | 💰 Subscription | 💰 Free tier limited | 💰 Pay per use |
+| **API Costs** | ✅ Optional (or use Gemini Nano) | 💰 Subscription | 💰 Subscription | ⚠️ Limited tier | 💰 Pay per use |
 | **Data Privacy** | ✅ On-device option available | ⚠️ Cloud-based | ⚠️ Cloud-based | ⚠️ Cloud-based | ⚠️ Cloud-based |
 
 ### Unique Features - Only in AI Summarizer
@@ -221,7 +221,7 @@ Compare this WordPress summarizing tool with other popular text summarizers:
 6. **Icons-Only Mode** - Modern, minimalist design with tooltips
 7. **Per-Post Customization** - Different AI models and settings per article
 8. **SEO Flexibility** - Choose `<a>` links or `<button>` elements
-9. **100% Free & Open Source** - No subscriptions, no usage limits
+9. **Open Source Plugin** - Community-driven development
 10. **WordPress Native** - Built with Gutenberg Block API v3 for optimal performance
 
 ## 🚀 Installation
