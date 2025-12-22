@@ -1,4 +1,4 @@
-# AI Summarizer - TL;DR & Content Summary Buttons
+# AI Summarizer - AI-Powered TL;DR & Content Summary Buttons
 
 [![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/ai-summarizer/releases)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.1%2B-brightgreen.svg)](https://wordpress.org/)

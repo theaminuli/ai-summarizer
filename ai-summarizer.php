@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       AI Summarizer
- * Description:       Add AI-powered Text Summarizer Buttons to your WordPress site. Create customizable button groups with flexible layouts and styling options.
+ * Plugin Name:       AI Summarizer - AI-Powered TL;DR & Content Summary Buttons
+ * Description:       Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summarize" and "Get TL;DR" buttons to help readers quickly grasp article content.
  * Version:           0.4.0
  * Requires at least: 6.1
  * Requires PHP:      7.4

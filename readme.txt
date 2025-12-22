@@ -1,4 +1,4 @@
-=== AI Summarizer - TLDR Text Summary & Content Condenser ===
+=== AI Summarizer - AI-Powered TL;DR & Content Summary Buttons ===
 Contributors:      theaminuldev, iqbal1hossain
 Tags:              summarizer, tldr, ai, text-summary, summarize, content, article-summary, reading
 Requires at least: 6.1
@@ -63,21 +63,6 @@ AI Summarizer is a powerful Gutenberg block plugin that enables you to create pr
 4. Style buttons to match your website design
 5. Publish and help readers navigate your content efficiently
 
-= Future AI Integration (Coming Soon) =
-
-We're working on integrating cutting-edge AI summarization:
-• **Chrome Built-in AI** - Leverage Gemini Nano for on-device summarization
-• **Multiple Summary Types** - TL;DR, key-points, headlines, teasers
-• **Adjustable Length** - Short, medium, or long summaries
-• **Format Options** - Bullet points, paragraphs, or structured lists
-• **Multi-language** - Summarize content in 50+ languages
-
-= SEO & Performance =
-
-• Lightweight code with minimal impact on page load speed
-• No external dependencies or heavy libraries
-• Clean HTML output for better search engine indexing
-• Follows WordPress performance best practices
 
 == Installation ==
 
@@ -151,19 +136,6 @@ Yes, all button text is fully customizable and supports WordPress translation fu
 
 AI integration is in development. Currently, you can link buttons to summary sections on your page using anchor links (#summary), or to separate summary pages. Automatic AI summarization will be available in a future update.
 
-== Screenshots ==
-
-1. Summarize Button block in the Gutenberg editor with live preview
-2. Comprehensive styling controls - colors, typography, spacing, borders
-3. Horizontal button layout - perfect for article headers
-4. Vertical button stack - ideal for sidebar widgets
-5. Customized TL;DR buttons with gradients and modern design
-6. Mobile-responsive layout showing buttons on different devices
-7. Block settings panel with layout and alignment options
-8. Button transformations - convert paragraphs to summary buttons
-9. Real-world example - blog post with "Get Summary" button
-10. Accessibility features - keyboard focus and screen reader support
-
 == Changelog ==
 
 = 0.4.0 - 2025-12-21 =
@@ -194,47 +166,6 @@ AI integration is in development. Currently, you can link buttons to summary sec
 * Added: WCAG 2.1 AA accessibility compliance
 * Added: Fully responsive design for all devices
 * Added: Gutenberg Block API v3 support
-
-== Usage ==
-
-= Basic Setup =
-
-1. **Add Block**: In the editor, click "+" → Search "Summarize Button" → Insert
-2. **Add Buttons**: Click "+" inside the block to add individual buttons
-3. **Customize Text**: Change default text to "TL;DR", "Quick Summary", "Key Points", etc.
-4. **Link Buttons**: Add URLs or anchor links (#summary) to your summary sections
-5. **Style Buttons**: Use sidebar settings to customize colors, fonts, and spacing
-
-= Pro Tips =
-
-**For Blog Posts:**
-• Place summary buttons at the top of long articles
-• Use text like "Don't have time? Get the TL;DR →"
-• Link to a summary section at the bottom of your post
-
-**For Documentation:**
-• Add "Quick Start" and "Full Guide" buttons
-• Use contrasting colors to highlight the summary option
-• Create vertical button stacks in sidebars
-
-**For Maximum Engagement:**
-• Use action-oriented text: "Summarize This", "Get Key Points"
-• Add icons using emoji: "⚡ Quick Read" or "📝 Full Article"
-• Test different button positions to find what works best
-
-= Creating Summary Sections =
-
-1. Add a heading block below your content (e.g., "Summary" or "TL;DR")
-2. Give it an HTML anchor (Advanced → HTML Anchor: "summary")
-3. Link your summary button to #summary
-4. Visitors click the button and jump straight to your summary!
-
-= Advanced Customization =
-
-• **Gradients**: Create eye-catching gradient backgrounds
-• **Hover Effects**: Built-in hover state styling
-• **Responsive Design**: Set different layouts for mobile vs desktop
-• **Custom CSS**: Add your own CSS classes for advanced styling
 
 == Support ==
 
