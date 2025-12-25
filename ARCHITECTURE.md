@@ -93,15 +93,30 @@ ai-summarizer/
 
 ### Official Documentation
 
-- [Block Editor Handbook](https://developer.wordpress.org/block-editor/)
-- [Block API Reference](https://developer.wordpress.org/block-editor/reference-guides/block-api/)
+- [WordPress Plugin Handbook](https://developer.wordpress.org/plugins/)
+- [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/)
 - [@wordpress/scripts Documentation](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-scripts/)
+- [React Documentation](https://react.dev/)
+- [Quicklink.js Documentation](https://github.com/GoogleChromeLabs/quicklink)
 
 ### Learning Resources
 
-- [Block Development Examples](https://github.com/WordPress/block-development-examples)
-- [Gutenberg GitHub Repository](https://github.com/WordPress/gutenberg)
-- [Create Block Tutorial](https://developer.wordpress.org/block-editor/getting-started/create-block/)
+- [WordPress Plugin Development](https://developer.wordpress.org/plugins/)
+- [Modern WordPress Development](https://developer.wordpress.org/block-editor/)
+- [PSR-4 Autoloading Standard](https://www.php-fig.org/psr/psr-4/)
+- [Webpack Configuration](https://webpack.js.org/configuration/)
+
+### Project Resources
+
+- [PageFlash GitHub Repository](https://github.com/theaminuli/ai-summarizer)
+- [WordPress.org Plugin Page](https://wordpress.org/plugins/ai-summarizer/)
+- [Issue Tracker](https://github.com/theaminuli/pageflash/issues)
+- [Support Forum](https://wordpress.org/support/plugin/ai-summarizer/)
+
+### Related Documentation
+
+- [AGENTS.md](AGENTS.md) - AI coding agent guidelines
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
 
 ---
 
